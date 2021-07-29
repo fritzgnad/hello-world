@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-I am Fritz Gnad and this is my github. 
+My name is Fritz Gnad, I am a Motion Designer, Creative Director with strong foundations in creative coding.
 www.fritzgnad.de
